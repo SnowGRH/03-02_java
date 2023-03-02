@@ -16,7 +16,7 @@ public class Szamok {
                     if (!IgazHamis && i != k && i != j && j != k) {
                         System.out.printf("%d%d%d\n", j, i, k);
                     }
-                    System.out.printf("%d%d%d\n", j, i, k);
+                    System.out.printf("%d%d%d\n", j,  i, k);
                 }
             }
         }
